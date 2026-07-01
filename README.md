@@ -12,25 +12,25 @@ Personal Linux configuration for my primary desktop.
 
 ## Included Configurations
 
-- Kitty
 - Fish
 - Fastfetch
+- Fontconfig
+- GitHub CLI
+- GTK 3 & GTK 4
+- Kate
+- Kitty
+- Kvantum
+- Micro
 - Rofi
 - Starship
-- GTK 3 & 4
-- Kate
-- Micro
-- Kvantum
-- GitHub CLI
-- Fontconfig
 
-## Wallpaper
+## Repository Structure
 
-The default wallpaper used in the screenshots is available in the `wallpapers/` directory.
-
-## Screenshots
-
-Screenshots of the current desktop are available in `/screenshots`.
+```
+.config/
+wallpapers/
+screenshots/
+```
 
 ## Installation
 
@@ -40,10 +40,14 @@ Clone the repository:
 git clone https://github.com/slsathington/dotfiles.git
 ```
 
-Copy or symlink the desired configuration files into `~/.config`.
+Copy the desired configuration into `~/.config`.
 
 GNU Stow support is planned.
 
+## Wallpaper
+
+The wallpaper used for this setup is included in the `wallpapers` directory.
+
 ## License
 
-MIT License.
+MIT
