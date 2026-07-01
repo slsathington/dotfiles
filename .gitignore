@@ -1,0 +1,21 @@
+# Editor temp files
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+
+# Fish history
+.config/fish/fish_history
+
+# GitHub CLI state
+.config/gh/state.yml
+
+# SSH
+.ssh/
+
+# Cache
+.cache/

@@ -3,7 +3,7 @@
 
   "logo": {
     "type": "kitty",
-    "source": "/home/spencer/Pictures/ansi.png",
+    "source": "~/Pictures/ansi.png",
     "width": 30,
     "padding": {
       "top": 5,
