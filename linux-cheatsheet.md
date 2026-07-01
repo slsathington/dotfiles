@@ -11,6 +11,7 @@ git pull
 git diff
 git log --oneline
 
+## Pacman/Paru
 sudo pacman -Syu
 sudo pacman -S package
 sudo pacman -Rns package
@@ -18,12 +19,14 @@ paru
 paru -S package
 paru -Ss search
 
+## GitHub CLI
 gh auth login
 gh auth status
 gh repo clone owner/repo
 
+## Fastfetch
 fastfetch
 
+## Rofi
 rofi -show drun
 
-kitty
