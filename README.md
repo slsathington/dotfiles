@@ -24,6 +24,10 @@ Personal Linux configuration for my primary desktop.
 - GitHub CLI
 - Fontconfig
 
+## Wallpaper
+
+The default wallpaper used in the screenshots is available in the `wallpapers/` directory.
+
 ## Screenshots
 
 Screenshots of the current desktop are available in `/screenshots`.
